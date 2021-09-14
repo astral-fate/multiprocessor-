@@ -1,8 +1,6 @@
 # multiprocessor-
 
-تخطى إلى المحتوىسوابر الشواغر- Vacancy Probation
-
-القائمة
+قائمة
 An introduction to operating systemAlfeim2021-09-14postsتحرير"An introduction to operating system"
 What is an operating system? You have probably had seen the black screen, that old fashioned computers were launched with, withier if that was on popular culture like in movies, or even the screen that programmers during 50s were working with, and that’s exactly what we are about to talk about on this article.
 
